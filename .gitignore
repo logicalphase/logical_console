@@ -10,7 +10,6 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-config/
 develop-eggs/
 dist/
 downloads/
@@ -53,6 +52,7 @@ coverage.xml
 
 # Django stuff:
 staticfiles/
+config/
 
 # Sphinx documentation
 docs/_build/
